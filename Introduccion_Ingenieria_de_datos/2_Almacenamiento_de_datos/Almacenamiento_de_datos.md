@@ -9,3 +9,19 @@ Usualmente en el almacenamiento de Datos podemos guardarlos de tres maneras dife
 ## Bases de Datos SQL
  SQL: Structure, Query, Language.
  
+ SQL es el lenguaje con el que nos vamos a comunicar a las bases de datos, ya sea para crear o modificar la estructura o datos de la misma DB o para consultar datos.
+
+ ## Data Lake vs Data Warehouse.
+ Data Lake:
+ - Se almacenan los datos en bruto.
+ - Datos sin procesar y tal vez desordenados.
+  - Estos pueden ser extremadamente grandes en volumen.
+  - Almacena cualquier tipo de datos (Etructurados, Semi Estructurados o no estructurados).
+  - Dificiles de analizar.
+
+ DaTa Warehouse:
+ - Almacena datos especificos para un uso concreto.
+- Estos acomparacion con los Data Lake son pequenos.
+- Almacenan mayormente Datos Estructurados.
+- Costosos de actualizar.
+- Optimizados para el analisis.
